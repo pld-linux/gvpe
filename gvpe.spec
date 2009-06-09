@@ -1,12 +1,12 @@
 Summary:	Virtual Private Ethernet
 Summary(pl.UTF-8):	Wirtualna sieć prywatna
 Name:		gvpe
-Version:	2.2
+Version:	2.22
 Release:	0.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://ftp.gnu.org/gnu/gvpe/%{name}-%{version}.tar.gz
-# Source0-md5:	72d4dfdf87d5e4a5487aecc28e459b9f
+# Source0-md5:	1373c79ffa40b137052923b6c5ac9e98
 URL:		http://savannah.gnu.org/projects/gvpe
 BuildRequires:	libev-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
